@@ -1,1 +1,2 @@
-https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales
+Dataset tidak dicantumkan karena sizenya terlalu besar (770 Mb)
+Link Dataset https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales
